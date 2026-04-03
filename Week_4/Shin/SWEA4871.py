@@ -8,7 +8,6 @@ for t in range(T):
     for e in range(E):
         a, b = map(int, input().split())
         arr[a].append(b)
-        arr[b].append(a)
     S, G = map(int, input().split())
     visited = [False] * (node + 1)
     connected = [0]
