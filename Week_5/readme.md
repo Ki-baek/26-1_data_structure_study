@@ -4,8 +4,8 @@
 * SWEA 5105
 ---
 ### S, J
-* BOJ
-* BOJ
+* BOJ 2606 (BFS 이용하기)
+* BOJ 11053 
 ---
 ### R, L
 * BOJ 1158
